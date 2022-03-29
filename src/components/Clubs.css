@@ -1,0 +1,92 @@
+/* CSS */
+.club-button {
+  align-items: center;
+  background-color: #fff;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  color: #000;
+  cursor: pointer;
+  display: inline-flex;
+  fill: #000;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  height: 48px;
+  justify-content: center;
+  letter-spacing: -.8px;
+  line-height: 24px;
+  min-width: 140px;
+  outline: 0;
+  padding: 0 17px;
+  text-align: center;
+  text-decoration: none;
+  transition: all .3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.club-button:focus {
+  color: #171e29;
+}
+
+.club-button:hover {
+  border-color: #6d76f7;
+  color: #6d76f7;
+  fill: #6d76f7;
+}
+
+.club-button:active {
+  border-color: #6d76f7;
+  color: #6d76f7;
+  fill: #6d76f7;
+}
+
+@media (min-width: 768px) {
+    .club-button {
+    min-width: 170px;
+  }
+}
+
+.table {
+    width: 800px;
+    border-collapse: collapse;
+    overflow: hidden;
+    border: 2px solid #000;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .table-column{
+    padding: 50px;
+    border: 2px solid #000;
+    background-color: rgba(128, 122, 212, 0.2);
+    color: black;
+    text-align: center;
+
+  }
+  
+  .table-content {
+    border: 2px solid #000;
+    padding: 30px;
+    background-color: rgba(32, 44, 218, 0.2);
+    color: black;
+    position: relative;
+  }
+  
+  
+  .table-column:hover {
+    background-color: #6d76f7;
+  }
+  
+  .table-content-seller{
+    border: 2px solid #000;
+    padding: 30px;
+    background-color: rgba(32, 44, 218, 0.2);
+    color: black;
+    position: relative;
+  }
+
+  .table-content-seller:hover{
+      background-color: white;
+  }
