@@ -3,7 +3,7 @@ This is a website application that users can log in into to sell and buy tickets
 
 ### Motivation :tickets:
 ----
-We are a group of 8 students that wanted to help other students find/sell tickets for events increasing nightclubs' revenue as a result.
+We are a group of 3 students that wanted to help other students find/sell tickets for events increasing nightclubs' revenue as a result.
 
 ### Features
 - Log in page
