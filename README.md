@@ -15,4 +15,4 @@ This was developed using [Visual Studio Code](https://code.visualstudio.com/) an
 
 ### Video Demo
 
-![](demo/react app demo.gif)
+![](demo/reactdemo.gif)
