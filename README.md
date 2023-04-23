@@ -12,3 +12,7 @@ We are a group of 8 students that wanted to help other students find/sell ticket
 - Chat: users can chat with sellers.
 ### Technical Information
 This was developed using [Visual Studio Code](https://code.visualstudio.com/) and is written in [React.js](https://reactjs.org/).
+
+### Video Demo
+
+![](/react app demo.gif)
